@@ -1,2 +1,3 @@
 # TestGit
 test git
+--createViewHome
